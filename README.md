@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img width="250" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjkzNTcyZjA0YmZiNmI4NjJiNjdlYWJmZDc3NzA1MDRiOGFhMjhmMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/bGgsc5mWoryfgKBx1u/giphy.gif)">
 
 <h3 align="center">
   Welcome to Karim douik's profile!
