@@ -22,17 +22,17 @@
 <a href="https://linkedin.com/in/taha-abdelkrim-douik-2b782b156/" target="_blank"><img src="https://img.shields.io/badge/-Karim%20douik-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-%3Fstyle%3Dflat%26logo%3Djavascript?style=flat&logo=javaScript&labelColor=black&color=white)&nbsp;
+![React.js](https://img.shields.io/badge/React-%3Fstyle%3Dflat%26logo%3Dreact?style=flat&logo=react&labelColor=black&color=white)&nbsp;
 ![Express](https://img.shields.io/badge/Express-%3Fstyle%3Dflat%26logo%3Dexpress?style=flat&logo=Express&logoColor=black&labelColor=yellow&color=black)&nbsp;
 ![Node](https://img.shields.io/badge/Node-%3Fstyle%3Dflat%26logo%3DNode?style=flat&logo=nodedotjs&labelColor=white&color=black)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%3Fstyle%3Dflat%26logo%3Dmongodb?style=flat&logo=mongodb&labelColor=white&color=008A1D)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-%3Fstyle%3Dflat%26logo%3Dhtml?style=flat&logo=HTML5&labelColor=black&color=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-%3Fstyle%3Dflat%26logo%3Dcss?style=flat&logo=CSS3&labelColor=black&color=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%3Fstyle%3Dflat%26logo%3DBootstrap?style=flat&logo=bootstrap&labelColor=white&color=8A0079)&nbsp;
+![Git](https://img.shields.io/badge/GIT-%3Fstyle%3Dflat%26logo%3Dgit?style=flat&logo=git&labelColor=black&color=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHub-%3Fstyle%3Dflat%26logo%3DGITHub?style=flat&logo=github&labelColor=black&color=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Vscode-%3Fstyle%3Dflat%26logo%3DVscode?style=flat&logo=Visual%20Studio%20code&labelColor=black&color=00B6FF)&nbsp;
 
 
 
